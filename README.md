@@ -4,7 +4,7 @@
 # Đề tài thực hiện: Nghiên cứu mô hình học sâu ứng dụng về hệ thống IOT"
        Yêu cầu:
           1. Tìm hiểu, cài đặt, đánh giá: Bộ dataset DDoS 2019
-          2. Sử dụng mô hình Long Short-Term Memory(LSTM)
+          2. Sử dụng mô hình Long Support Vector Machine (SVM)
           3. Xây dựng mô hình học sâu (đầu ra cho biết 2 loại:Tấn công và không tấn công)
           4. Huấn luyện bộ dữ liệu tỉ lệ 25-75
           5. Phân tích và dự đoán các gói dữ liệu đôc hại (chiết suất đặc trưng nhận dạng).
